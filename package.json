@@ -15,5 +15,9 @@
     "url": "https://github.com/pinakpani-mukherjee/TwitterClone-api/issues"
   },
   "homepage": "https://github.com/pinakpani-mukherjee/TwitterClone-api#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.13.3"
+  }
 }
