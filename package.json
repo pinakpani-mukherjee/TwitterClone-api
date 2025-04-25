@@ -1,0 +1,19 @@
+{
+  "name": "twitterclone-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pinakpani-mukherjee/TwitterClone-api.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pinakpani-mukherjee/TwitterClone-api/issues"
+  },
+  "homepage": "https://github.com/pinakpani-mukherjee/TwitterClone-api#readme",
+  "description": ""
+}
